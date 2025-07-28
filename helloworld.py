@@ -1,2 +1,2 @@
-print("hello world v4!")
-print('ok')
+print(3+2)
+print('rd')
